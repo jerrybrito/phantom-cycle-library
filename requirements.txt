@@ -1,0 +1,2 @@
+# Requires: forgotten-interval
+# (Not available on PyPI)
